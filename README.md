@@ -1,0 +1,2 @@
+# E-Commerce-Website-Using-Django
+The E-Commerce Website project using the Django framework aims to develop a full-fledged online shopping platform where users can browse products, add them to the cart, proceed to checkout, and make purchases securely. The project utilizes the Django framework for backend development and integrates HTML, CSS, and JavaScript for the frontend user interface. The primary focus is on providing a seamless shopping experience for users and efficient order management for administrators.
